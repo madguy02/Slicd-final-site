@@ -1,1 +1,2 @@
-# Slicd-final-site
+# Slicd-website
+Slicd Website
